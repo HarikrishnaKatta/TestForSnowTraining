@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="PersonInfo Item Stream">8e829df92fb3001095fe43e72799b668</item_stream>
+        <segment display_value="PersonInfo Item Stream Segment">06829df92fb3001095fe43e72799b668</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 13:23:52</sys_created_on>
+        <sys_id>86829df92fb3001095fe43e72799b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RRR Application" source="x_349786_rrr_appli">9f5015352f33001095fe43e72799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RRR Application">9f5015352f33001095fe43e72799b6ed</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_86829df92fb3001095fe43e72799b669</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 13:23:52</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

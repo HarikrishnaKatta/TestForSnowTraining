@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Home"}</icon>
+        <name>Home RRR Application</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 13:23:52</sys_created_on>
+        <sys_id>4a829df92fb3001095fe43e72799b663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home RRR Application</sys_name>
+        <sys_package display_value="RRR Application" source="x_349786_rrr_appli">9f5015352f33001095fe43e72799b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RRR Application">9f5015352f33001095fe43e72799b6ed</sys_scope>
+        <sys_update_name>sys_sg_icon_4a829df92fb3001095fe43e72799b663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 13:23:52</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>
